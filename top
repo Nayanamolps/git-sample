@@ -1,0 +1,67 @@
+[33mcommit af42f61973f07684dabde94555fcff193f285ecd[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Nayana Suresh <nayanamolps123@gmail.com>
+Date:   Wed Nov 24 10:50:21 2021 +0530
+
+    updated
+
+[33mcommit 3447d879a4ffba9bb5325f3885ddf78d7ecc0e32[m
+Merge: cf80a7d 46e200b
+Author: Nayana Suresh <nayanamolps123@gmail.com>
+Date:   Wed Nov 24 09:56:47 2021 +0530
+
+    conflict fixed
+
+[33mcommit cf80a7dba85d15c7d96530bf0d97f41507669fd3[m
+Author: Nayana Suresh <nayanamolps123@gmail.com>
+Date:   Wed Nov 24 09:53:51 2021 +0530
+
+    negative answr added
+
+[33mcommit 46e200be2e6405db21a7c2775abc4a9b7182a79a[m
+Author: Nayana Suresh <nayanamolps123@gmail.com>
+Date:   Wed Nov 24 09:50:49 2021 +0530
+
+    positive answr added
+
+[33mcommit 1fd2d0e201f88142d00afde4042bfdc9032b37ad[m
+Merge: bed5270 8907c65
+Author: Nayana Suresh <nayanamolps123@gmail.com>
+Date:   Tue Nov 23 17:23:49 2021 +0530
+
+    Merge branch 'feature'
+
+[33mcommit 8907c65ad64b7bb23adc1091f84451d8268b736e[m
+Author: Nayana Suresh <nayanamolps123@gmail.com>
+Date:   Tue Nov 23 17:15:57 2021 +0530
+
+    index file modified
+
+[33mcommit bed52707df001e6886833eb41739ad5e2802d88b[m
+Author: Nayana Suresh <nayanamolps123@gmail.com>
+Date:   Tue Nov 23 17:11:08 2021 +0530
+
+    hey file modified
+
+[33mcommit b4e8eeec070f873ce254c7b8e3fdc928b8bf485b[m
+Author: Nayana Suresh <nayanamolps123@gmail.com>
+Date:   Tue Nov 23 15:17:48 2021 +0530
+
+    hey file edited
+
+[33mcommit 5588e9930ce6c35ad1689243460500300bb27556[m
+Author: Nayana Suresh <nayanamolps123@gmail.com>
+Date:   Tue Nov 23 15:01:11 2021 +0530
+
+    second file added
+
+[33mcommit 19e7373af447ef0030ac9b96cef11cb3997a5a7c[m
+Author: Nayana Suresh <nayanamolps123@gmail.com>
+Date:   Tue Nov 23 12:49:36 2021 +0530
+
+    added some messages
+
+[33mcommit 48170ff0fef1efc034eee25cad0a93a6006215a6[m
+Author: Nayana Suresh <nayanamolps123@gmail.com>
+Date:   Tue Nov 23 12:32:45 2021 +0530
+
+    Initial Commit
